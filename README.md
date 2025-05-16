@@ -50,10 +50,7 @@ Each row in `Patient_Info.csv` represents a patient record. Key features include
 The following classification models were explored:
 
 - Logistic Regression
-- Decision Tree
-- Random Forest
 - K-Nearest Neighbors (KNN)
-- Support Vector Machine (SVM)
 
 ---
 
@@ -71,7 +68,5 @@ Models were evaluated using:
 
 ## 📝 Results
 
-> _[Insert model comparison table or summary here]_  
-> _Example: Random Forest achieved the highest accuracy of 89%._
 
 ---
