@@ -1,1 +1,1 @@
-# Heart-Disease-Classification-project
+# Heart Disease Classification 
